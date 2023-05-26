@@ -1,7 +1,7 @@
 # conda
 Transfer the conda environment between two computers
 
-'''
+```
 conda install -c conda-forge conda-pack
 
 conda activate yyc
@@ -26,4 +26,4 @@ yyy     /home/qing/.conda/envs/yyy
 myconda /home/qing/.conda/envs/myconda
 base    /opt/conda
 xxx     /opt/conda/envs/xxx
-'''
+```
